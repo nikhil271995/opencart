@@ -1,0 +1,697 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"find",
+				"findByIdAndUpdate"
+			],
+			[
+				"distr",
+				"district"
+			],
+			[
+				"api",
+				"apiData"
+			],
+			[
+				"err",
+				"error_code"
+			],
+			[
+				"erro",
+				"error_code"
+			],
+			[
+				"findby",
+				"findById"
+			],
+			[
+				"pass",
+				"passphrase"
+			],
+			[
+				"admin",
+				"adminValidate"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"view",
+				"viewEvents"
+			],
+			[
+				"ment",
+				"mentorValidate"
+			],
+			[
+				"dist",
+				"districtData"
+			],
+			[
+				"ap",
+				"apikey"
+			],
+			[
+				"apik",
+				"apikeys"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"sec",
+				"section3"
+			],
+			[
+				"sect",
+				"section1"
+			],
+			[
+				"conta",
+				"contactus"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"upvo",
+				"upvotes"
+			],
+			[
+				"upv",
+				"upvote"
+			],
+			[
+				"quest",
+				"question"
+			],
+			[
+				"upvote",
+				"upvotedata"
+			],
+			[
+				"ans",
+				"ansid"
+			],
+			[
+				"answ",
+				"answer"
+			],
+			[
+				"answer",
+				"answers"
+			],
+			[
+				"_is",
+				"_isMentor"
+			],
+			[
+				"mentor",
+				"mentorData"
+			],
+			[
+				"up",
+				"upvotes"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"require",
+				"required"
+			],
+			[
+				"email",
+				"emailid"
+			],
+			[
+				"Skill",
+				"SkillMaker"
+			],
+			[
+				"add",
+				"add_button"
+			],
+			[
+				"skill",
+				"skillName"
+			],
+			[
+				"succ",
+				"Successfully"
+			],
+			[
+				"LO",
+				"log"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"user",
+				"userValidate"
+			],
+			[
+				"not",
+				"notifications"
+			],
+			[
+				"noti",
+				"notification"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"local",
+				"localVideoStream"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"remove",
+				"remove_field"
+			],
+			[
+				"rem",
+				"remove_field"
+			],
+			[
+				"findb",
+				"findById"
+			],
+			[
+				"cousne",
+				"counsellorValidate"
+			],
+			[
+				"asso",
+				"associates"
+			],
+			[
+				"Succ",
+				"Success"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"ass",
+				"associateValidate"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"file",
+				"fileFilter"
+			],
+			[
+				"new",
+				"new"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"prof",
+				"profile_originalname"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"counsello",
+				"counsellors"
+			],
+			[
+				"counse",
+				"counsellorHome"
+			],
+			[
+				"cou",
+				"counsellorValidate"
+			],
+			[
+				"bak",
+				"backURL"
+			],
+			[
+				"la",
+				"last_name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/anv13/Documents/work/prakshep-nodejs/views/editApikey.html",
+		"/home/anv13/Documents/work/prakshep-nodejs/routes/index.js",
+		"/home/anv13/Documents/work/prakshep-nodejs/models/data.js",
+		"/home/anv13/Documents/work/prakshep-nodejs/views/viewApi.html",
+		"/home/anv13/Documents/work/prakshep-nodejs/models/apikey.js",
+		"/home/anv13/Documents/work/prakshep-nodejs/app.js",
+		"/home/anv13/Documents/work/prakshep-nodejs/package.json",
+		"/home/anv13/Documents/work/prakshep-nodejs/views/index.html",
+		"/home/anv13/Documents/work/prakshep-nodejs/views/newApikey.html",
+		"/home/anv13/Documents/git/skillMaker/views/index.html",
+		"/home/anv13/Documents/git/skillMaker/views/admin/viewSkills.html",
+		"/home/anv13/Documents/work/prakshep-nodejs/models/users.js",
+		"/home/anv13/Documents/work/prakshep-nodejs/views/login.html",
+		"/home/anv13/Documents/work/prakshep-nodejs/routes/auth.js",
+		"/home/anv13/Documents/work/prakshep-nodejs/views/404-error.html",
+		"/home/anv13/Documents/git/skillMaker/routes/admin.js",
+		"/home/anv13/Documents/git/skillMaker/public/js/angular.min.js",
+		"/home/anv13/Documents/git/skillMaker/views/users/makersProfile.html",
+		"/home/anv13/Documents/git/skillMaker/views/users/applySkills.html",
+		"/home/anv13/Documents/git/skillMaker/views/users/viewChapter.html",
+		"/home/anv13/Documents/git/skillMaker/routes/users.js",
+		"/home/anv13/Documents/git/skillMaker/views/admin/newEvent.html",
+		"/home/anv13/Documents/git/skillMaker/views/users/index.html",
+		"/home/anv13/Documents/git/skillMaker/models/users.js",
+		"/home/anv13/Documents/git/skillMaker/views/users/viewEvents.html",
+		"/home/anv13/Documents/git/skillMaker/views/users/events.html",
+		"/home/anv13/Documents/git/skillMaker/public/css/app.css",
+		"/home/anv13/Documents/git/skillMaker/models/events.js",
+		"/home/anv13/Documents/git/skillMaker/views/admin/editEvent.html",
+		"/home/anv13/Documents/git/skillMaker/views/admin/viewEvents.html",
+		"/home/anv13/Documents/git/skillMaker/views/admin/index.html",
+		"/home/anv13/Documents/git/skillMaker/app.js",
+		"/home/anv13/Documents/git/skillMaker/views/users/newevent.html",
+		"/home/anv13/Desktop/dwd/auth.js",
+		"/home/anv13/Desktop/dwd/index.js",
+		"/home/anv13/Documents/git/skillMaker/diff.txt",
+		"/home/anv13/Documents/work/prakshep-nodejs/bin/www",
+		"/home/anv13/Desktop/BITOTSAV 17 CORE Formation/test.txt",
+		"/home/anv13/Desktop/BITOTSAV 17 CORE Formation/14233423_1098146706928615_1834472076_o.jpg",
+		"/home/anv13/Desktop/Mentors",
+		"/home/anv13/Documents/work/falke19/routes/index.js",
+		"/home/anv13/Documents/work/falke19/models/comments.js",
+		"/home/anv13/desk",
+		"/home/anv13/Documents/git/skillMaker/views/forum/single.html",
+		"/home/anv13/Desktop/asd2.txt",
+		"/home/anv13/Desktop/asd1.txt",
+		"/home/anv13/Documents/git/skillMaker/views/users/dashboard.html",
+		"/home/anv13/Documents/git/skillMaker/views/users/profile.html",
+		"/home/anv13/Documents/git/skillMaker/routes/forum.js",
+		"/home/anv13/Documents/git/skillMaker/models/questions.js",
+		"/home/anv13/examples.css",
+		"/home/anv13/anhad2.html",
+		"/home/anv13/Documents/git/skillMaker/views/users/skills.html",
+		"/home/anv13/Documents/git/skillMaker/views/forum/question_new.html",
+		"/home/anv13/Documents/git/skillMaker/bin/www",
+		"/home/anv13/Documents/git/skillMaker/models/upvotes.js",
+		"/home/anv13/Documents/git/skillMaker/models/answers.js",
+		"/home/anv13/test.html",
+		"/home/anv13/Documents/git/skillMaker/models/comment.js",
+		"/home/anv13/anhad.html",
+		"/home/anv13/Documents/git/skillMaker/views/forum/tempsingle.html",
+		"/home/anv13/Documents/git/skillMaker/views/forum/questions.html",
+		"/home/anv13/Documents/git/skillMaker/npm-debug.log",
+		"/home/anv13/Documents/git/skillMaker/views/users/search.html",
+		"/home/anv13/Documents/git/skillMaker/views/users/mentor.html",
+		"/home/anv13/Documents/git/skillMaker/models/posts.js",
+		"/home/anv13/Documents/git/skillMaker/views/admin/newSkill.html",
+		"/home/anv13/Documents/git/skillMaker/views/admin/editSkill.html",
+		"/home/anv13/Documents/git/skillMaker/models/skills.js",
+		"/home/anv13/Documents/git/skillMaker/views/users/home.html",
+		"/home/anv13/Documents/git/skillMaker/views/404-error.html",
+		"/home/anv13/Documents/git/skillMaker/views/admin/viewUsers.html",
+		"/home/anv13/Documents/git/skillMaker/views/admin/indexUser.html",
+		"/home/anv13/Desktop/contacts.text",
+		"/home/anv13/Documents/work/confluence v2.0/confluence/models/canada.js",
+		"/home/anv13/Documents/work/business-query/app.py",
+		"/home/anv13/Downloads/supplierDetailsEdit.html",
+		"/home/anv13/Documents/work/confluence v2.0/confluence/views/counsellor/viewShortlist.html",
+		"/home/anv13/Downloads/facebook-nikhil271995/html/contact_info.htm",
+		"/media/anv13/ANV13/ /business-query/templates/userDetails.html",
+		"/media/anv13/ANV13/ /confluence/routes/users.js",
+		"/home/anv13/Documents/work/business-query/templates/userDetails.html",
+		"/home/anv13/Documents/work/carebuddy projects/skillMaker Node/website/routes/index.js",
+		"/home/anv13/Documents/work/carebuddy projects/skillMaker Node/website/routes/users.js",
+		"/home/anv13/Documents/work/carebuddy projects/skillMaker Node/website/views/users/signin.html",
+		"/home/anv13/Documents/work/carebuddy projects/skillMaker Node/website/views/users/register.html",
+		"/home/anv13/Documents/work/carebuddy projects/skillMaker Node/website/views/users/forget.html",
+		"/home/anv13/Documents/work/carebuddy projects/skillMaker Node/website/public/css/app.css",
+		"/home/anv13/Documents/work/carebuddy projects/skillMaker Node/website/views/users/home.html",
+		"/home/anv13/Documents/work/carebuddy projects/skillMaker Node/website/views/index.html",
+		"/home/anv13/Documents/work/carebuddy projects/skillMaker Node/website/views/users/index.html",
+		"/home/anv13/git/confluence/routes/counsellor.js",
+		"/home/anv13/git/confluence/views/counsellor/counsellordiscussion.html",
+		"/home/anv13/git/confluence/views/users/userNotifications.html",
+		"/home/anv13/git/confluence/app.js",
+		"/home/anv13/git/confluence/routes/users.js",
+		"/home/anv13/git/confluence/views/counsellor/nav.html",
+		"/home/anv13/git/confluence/views/users/nav.html",
+		"/home/anv13/git/confluence/models/chats.js",
+		"/home/anv13/git/confluence/views/counsellor/userNotifications.html",
+		"/home/anv13/git/confluence/models/notifications.js",
+		"/home/anv13/git/falke19/models/comments.js",
+		"/home/anv13/git/falke19/views/artists/djfalke19/index.html",
+		"/home/anv13/Desktop/anhad/artist/index.html",
+		"/home/anv13/Desktop/anhad/artist/assets/css/default-skin.css",
+		"/home/anv13/Desktop/anhad/artist/assets/js/script.js",
+		"/home/anv13/git/dc/bin/www",
+		"/home/anv13/git/dc/package.json",
+		"/home/anv13/git/dc/routes/users.js",
+		"/home/anv13/git/dc/app.js",
+		"/home/anv13/git/dc/routes/index.js",
+		"/home/anv13/git/dc/views/users/index.html",
+		"/home/anv13/git/dc/node_modules/express/lib/express.js",
+		"/home/anv13/git/dc/views/users/register.html",
+		"/home/anv13/git/dc/routes/auth.js",
+		"/home/anv13/git/dc/views/index.html",
+		"/home/anv13/git/dc/views/users/navbar.html",
+		"/home/anv13/git/dc/views/users/navUser.html",
+		"/home/anv13/git/dc/public/css/login.css",
+		"/home/anv13/git/dc/models/users.js",
+		"/home/anv13/git/dc/views/error.html",
+		"/home/anv13/git/carebuddy/app/views/users/profile.html",
+		"/home/anv13/git/carebuddy/app/views/users/register.html",
+		"/home/anv13/git/carebuddy/app/views/users/navUser.html",
+		"/home/anv13/git/carebuddy/app/views/users/index.html",
+		"/home/anv13/git/carebuddy/app/public/css/style.css",
+		"/home/anv13/git/carebuddy/app/models/users.js",
+		"/home/anv13/git/carebuddy/app/routes/auth.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"user"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"prakshep",
+			"editApi",
+			"apiData",
+			"freeCount",
+			");\n",
+			"flash",
+			"createHash",
+			"register",
+			"password",
+			"apply/skills",
+			"apply",
+			"profile",
+			"userValida",
+			"makers",
+			"maker",
+			"/makers",
+			"mobile",
+			"address",
+			"editinfo",
+			"users/profile",
+			"addskills",
+			"profile",
+			"addSkills",
+			"skills",
+			"linkedin",
+			"facebook",
+			"about",
+			"education",
+			"makers",
+			"push",
+			"makers",
+			"save",
+			"makers",
+			"maker",
+			"Schooling Information",
+			"Schooling Information *\n",
+			"phone",
+			"questions",
+			"maker",
+			"events",
+			"ve",
+			");\n",
+			">",
+			"/dashboard",
+			"user.",
+			"user-",
+			"user.",
+			"float",
+			"fullpage",
+			"section0",
+			"sectio",
+			"skills",
+			"new answers",
+			"new upvotes",
+			"new answers",
+			"time",
+			"answers",
+			"new answers",
+			"section1",
+			");\n",
+			"upvote",
+			"new",
+			"answerUpvoteStatus",
+			"question/:id",
+			"question",
+			"upvote",
+			"questionData",
+			"new",
+			"answer",
+			"upvote",
+			"post",
+			"search",
+			"sear h",
+			"home",
+			" Date.now()",
+			"now",
+			"now()",
+			"addanswer",
+			"answer",
+			"addAnswer",
+			"submit",
+			"fl",
+			"_isMe",
+			"_isAdmin",
+			"var",
+			">\n",
+			"main.js",
+			"main",
+			"CAll history",
+			"goodbox",
+			"storeinsertrow",
+			"taxes",
+			"store_custom",
+			"taxes",
+			"store_custom-",
+			"custom_taxes-",
+			"custom_",
+			"add",
+			"add ",
+			"add row",
+			"add ",
+			"Add row",
+			"store_custom-",
+			"store_custom",
+			"userData",
+			"deadline",
+			"city",
+			"province",
+			"register",
+			"login-footer",
+			"login-links",
+			"images",
+			"course-col",
+			"Pop",
+			"poplu",
+			"images",
+			"skills",
+			"userData",
+			"profile",
+			"push",
+			"new",
+			"ielts",
+			"noti",
+			"associates",
+			"new chat",
+			"new user",
+			"chats",
+			"new user"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"mentor.",
+			"1920",
+			"1366",
+			"Internal",
+			"",
+			"Database"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "www.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"$$incOutstandingRequestCount"
+			]
+		],
+		"width": 905.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

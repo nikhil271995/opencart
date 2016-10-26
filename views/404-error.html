@@ -1,0 +1,30 @@
+{%extends "index.html"%}
+
+{%block title%} 404 {%endblock%}
+
+{%block container%}
+	<div class="viewport">
+		<div class="header-tablet">
+			<div class="hamburger">
+				<span class="nav-btn"></span>
+			</div>
+			<div class="logo text-center">
+				<a href="#">
+					<img src="images/logo.png" alt="SkillMaker">
+				</a>
+			</div>
+		</div>
+
+		<div class="error-page page-content">
+			<div class="wrapper">
+				<div class="message">
+					<h1>Oops!</h1>
+					<h3>We can't seem to find the <br>page you're looking for.</h3>
+					<h5 class="list-p">Error code: 404</h5>
+				</div>
+				<div class="image thumbnail-classic">
+					<img src="images/404-error.gif" alt="">
+				</div>		
+			</div>		
+		</div>	
+{%endblock%}
